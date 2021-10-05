@@ -25,7 +25,7 @@ int main() {
     float avg, max;
     int num;
     int i;
-    
+    printf("");
     max = 0;
     scanf("%d", &num);
     for(i=0; i<num; i++){
